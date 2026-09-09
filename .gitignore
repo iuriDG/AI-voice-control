@@ -1,0 +1,6 @@
+venv/
+*.onnx
+*.bin
+test_output.wav
+__pycache__/
+.env
